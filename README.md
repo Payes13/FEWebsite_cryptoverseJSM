@@ -1,2 +1,2 @@
 # FEWebsite_cryptoverseJSM
-ReactJS Application
+ReactJS, rapidAPI, Ant design
